@@ -4,7 +4,6 @@ externalId: tr-create_asset_hierarchy_ui
 name: create_asset_hierarchy_ui
 query:
     file: transformation.sql
-
 destination:
     type: asset_hierarchy
 ignoreNullFields: true

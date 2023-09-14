@@ -1,8 +1,8 @@
 ---
 # Manifest file downloaded from fusion
-externalId: tr-ts_create_assets_hierachy_ui
-name: ts_create_assets_hierachy_ui
-query: >-
+externalId: tr-ts-assets-mapping_ui
+name: tr-assets-mapping_ui
+query:
     file: transformation.sql
 destination:
     type: timeseries
